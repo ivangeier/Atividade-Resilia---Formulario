@@ -10,6 +10,10 @@ Formulário de inscrição: A Resilia abrirá em breve uma nova turma e tarefa d
 - Telefone
 - Data de nascimento Botão de envio
 
+## Resultados
+
+![](Atividade1-4-Formulario.png)
+
 ## Tecnologias
 
 - HTML
